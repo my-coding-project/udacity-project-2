@@ -1,0 +1,16 @@
+I have created the dev for testing, and the main branch where I merge my update changes.
+
+I have also created this note to point out my Elastic Beanstalk URL
+
+Here is the url: 
+
+# The Deployment URL
+Deployment URL: http://testbeanstalk-env.eba-xctudcph.us-east-1.elasticbeanstalk.com/
+
+
+http://{{http://testbeanstalk-env.eba-xctudcph.us-east-1.elasticbeanstalk.com/}}/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+
+I also place the dashboard diagram in the deployment_screenshot directory with the name
+udacityproject2.JPG 
+
+Thank you.
